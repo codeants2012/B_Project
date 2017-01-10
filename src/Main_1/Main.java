@@ -3,7 +3,8 @@ package Main_1;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("hello world!!!!");
+		Run s = new Run();
+		s.print("ssssssssssssssssaaaawweer");
 
 	}
 
